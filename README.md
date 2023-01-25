@@ -22,7 +22,6 @@ End of the program.
 '''Program For Copying The Contents:
 Developed by: SATHISH R
 RegisterNumber: 22009045 '''
-
 print("Enter the Name of Source File: ")
 sFile = input()
 print("Enter the Name of Target File: ")
@@ -39,13 +38,10 @@ fileHandle.close()
 print("\nFile Copied Successfully!")
 ```
 ### OUTPUT:
-
 ![prgc](https://user-images.githubusercontent.com/120574768/214610627-8fc150a6-8d8c-4b5d-b21e-ee99ead92563.png)
 
 ![A](https://user-images.githubusercontent.com/120574768/214610672-364fecbb-54b9-4e70-b4c4-e45c9f0627a6.png)
 
 ![B](https://user-images.githubusercontent.com/120574768/214610700-da2132ac-f327-4c70-9fef-fcc4af0ac867.png)
-
-
 ## RESULT:
 Thus the program is written to copy the contents from one file to another file.
